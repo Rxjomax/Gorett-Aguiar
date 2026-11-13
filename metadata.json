@@ -1,0 +1,6 @@
+{
+  "name": "Gorett Aguiar | Psicóloga Clínica",
+  "description": "Psicóloga Clínica Gorett Aguiar (CRP: 02/10724). Formada pela UFC, Especialista em Psicologia da Família e Terapia Cognitivo-Comportamental (TCC). Atendimento em Boa Viagem, Recife e Online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
